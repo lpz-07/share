@@ -196,11 +196,9 @@ emmm今天依旧小无聊吧
 
 
 
-![DSC_3062.JPG](D:\my-projects\share\images\DSC_3062.JPG)
-
-![DSC_3064.JPG](D:\my-projects\share\images\DSC_3064.JPG)
-
-![DSC_3065.JPG](D:\my-projects\share\images\DSC_3065.JPG)
+![DSC_3062.JPG](images/DSC_3062.JPG)
+![DSC_3064.JPG](images/DSC_3064.JPG)
+![DSC_3065.JPG](images/DSC_3065.JPG)
 
 
 
